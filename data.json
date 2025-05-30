@@ -1,0 +1,102 @@
+{
+  "P002": {
+    "name": "Riya",
+    "city": "Pune",
+    "age": 26,
+    "gender": "female",
+    "height": 1.65,
+    "weight": 60,
+    "bmi": 22,
+    "verdict": "Normal"
+  },
+  "P003": {
+    "name": "Karan",
+    "city": "Mumbai",
+    "age": 30,
+    "gender": "male",
+    "height": 1.8,
+    "weight": 85,
+    "bmi": 26.2,
+    "verdict": "Overweight"
+  },
+  "P004": {
+    "name": "Rahul",
+    "city": "Satara",
+    "age": 24,
+    "gender": "male",
+    "height": 1.74,
+    "weight": 74,
+    "bmi": 24.44,
+    "verdict": "Normal"
+  },
+  "P005": {
+    "name": "Rahul",
+    "city": "Aurangabad",
+    "age": 28,
+    "gender": "male",
+    "height": 1.75,
+    "weight": 95,
+    "bmi": 31,
+    "verdict": "Obese"
+  },
+  "P006": {
+    "name": "Pooja",
+    "city": "Nagpur",
+    "age": 25,
+    "gender": "female",
+    "height": 1.62,
+    "weight": 70,
+    "bmi": 26.7,
+    "verdict": "Overweight"
+  },
+  "P007": {
+    "name": "Vikas",
+    "city": "Thane",
+    "age": 32,
+    "gender": "male",
+    "height": 1.78,
+    "weight": 68,
+    "bmi": 21.5,
+    "verdict": "Normal"
+  },
+  "P008": {
+    "name": "Neha",
+    "city": "Solapur",
+    "age": 29,
+    "gender": "female",
+    "height": 1.55,
+    "weight": 50,
+    "bmi": 20.8,
+    "verdict": "Normal"
+  },
+  "P009": {
+    "name": "Amit",
+    "city": "Kolhapur",
+    "age": 27,
+    "gender": "male",
+    "height": 1.7,
+    "weight": 74,
+    "bmi": 25.6,
+    "verdict": "Overweight"
+  },
+  "P010": {
+    "name": "Priya",
+    "city": "Jalgaon",
+    "age": 23,
+    "gender": "female",
+    "height": 1.58,
+    "weight": 62,
+    "bmi": 24.8,
+    "verdict": "Normal"
+  },
+  "P011": {
+    "name": "Piyush",
+    "city": "Jalgaon",
+    "age": 24,
+    "gender": "male",
+    "height": 1.73,
+    "weight": 85,
+    "bmi": 28.4,
+    "verdict": "Overweight"
+  }
+}
