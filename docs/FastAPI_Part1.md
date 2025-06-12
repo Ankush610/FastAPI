@@ -31,7 +31,7 @@ def home():
     return {"message": "Hello FastAPI"}
 ```
 ```bash
-uvicorn main:app --host 0.0.0.0 --port 80
+run_command : uvicorn main:app --host 0.0.0.0 --port 80
 ```
 
 ---
