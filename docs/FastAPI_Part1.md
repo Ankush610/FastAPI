@@ -34,10 +34,10 @@ def home():
 ```bash 
 uvicorn main:app --host 0.0.0.0 --port 8000 --reload
 ```
-- main:app -> main is file name "main.py" and app is object name "app = FastApi()" 
-- host -> name of host here we running at localhost
-- port -> port allocated to access the app
-- reload -> when you make changes to code it will refresh api automatically
+- main:app → main is the filename (main.py), and app is the FastAPI instance (app = FastAPI()).
+--host → hostname or IP to bind the server (like localhost or 0.0.0.0).
+--port → port number to access the app.
+--reload → auto-reloads the server when code changes (for faster development).
 ---
 
 ## 📌 Automatic API Documentation
