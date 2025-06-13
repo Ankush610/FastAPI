@@ -30,10 +30,14 @@ app = FastAPI()
 def home():
     return {"message": "Hello FastAPI"}
 ```
-```bash
-run_command : uvicorn main:app --host 0.0.0.0 --port 80
+**Run Command**
+```bash 
+uvicorn main:app --host 0.0.0.0 --port 8000 --reload
 ```
-
+- main:app -> main is file name "main.py" and app is object name "app = FastApi()" 
+- host -> name of host here we running at localhost
+- port -> port allocated to access the app
+- reload -> when you make changes to code it will refresh api automatically
 ---
 
 ## 📌 Automatic API Documentation
