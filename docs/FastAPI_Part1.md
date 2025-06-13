@@ -35,8 +35,8 @@ def home():
 uvicorn main:app --host 0.0.0.0 --port 8000 --reload
 ```
 - main:app → main is the filename (main.py), and app is the FastAPI instance (app = FastAPI()).
-- host → hostname or IP to bind the server (like localhost or 0.0.0.0).
-- port → port number to access the app.
+- host → The network address (IP or hostname) of the machine where your app server runs. (like localhost or 0.0.0.0).
+- port →The unique number assigned to a running service on a machine (used to access the app).
 - reload → auto-reloads the server when code changes (for faster development).
 ---
 
